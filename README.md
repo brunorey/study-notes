@@ -18,6 +18,9 @@ https://dataintensive.net/
 The c10k problem: handling 10 000 concurrent connections by Dan Kegel - 1999 (very old but worth knowing and understanding)
 http://www.kegel.com/c10k.html
 
+Forest and desert by Kent Beck and Beth Andres-Beck
+https://tidyfirst.substack.com/p/forest-and-desert
+
 ## Interesting tech talks
 
 AWS: "Scaling up to your first 10 million users"
